@@ -42,7 +42,7 @@ function iniciarJogoMedia() {
 
 function iniciarJogoNumeroSecreto() {
   alert('Seja bem-vindo ao nosso jogo!');
-  let numeroSecreto = 5;
+  let numeroSecreto = 7;
   let chute;
   let tentativas = 0;
   while (chute != numeroSecreto) {
